@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# Hi there, I'm Navya! 
+## Hi there, I'm Navya! 
 **First-Year Computer Science Student | Learning to Code & Build Projects**  
 I’m just starting my tech journey and excited to explore coding, problem-solving, and building things from scratch.  
 My goal is to improve a little every day and share my progress here.
